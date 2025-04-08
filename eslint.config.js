@@ -8,14 +8,17 @@ import eslintConfigPrettier from "eslint-config-prettier/flat";
 
 export default defineConfig([
   globalIgnores([
-    "**/build",
-    "**/public",
-    "**/dist",
-    "**/dist/*",
-    "**/tests/*",
-    "coverage",
-    ".astro/*",
-    "node_modules/*",
+    '**/build',
+    '**/public',
+    '**/dist',
+    '**/dist/*',
+    '**/tests/*',
+    'coverage',
+    '.astro/*',
+    'node_modules/*',
+    '.vercel/*',
+    '.vscode/*',
+    '.astro/*',
   ]),
   { files: ["**/*.{js,mjs,cjs,ts,astro}"] },
   {
