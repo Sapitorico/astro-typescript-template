@@ -135,4 +135,14 @@ Simplemente conecta tu repositorio y selecciona el framework Astro.
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+<div align="right">
+  <a href="#" style="
+    display: inline-block;
+    padding: 5px 10px;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+  ">↑ Subir</a>
+</div>
