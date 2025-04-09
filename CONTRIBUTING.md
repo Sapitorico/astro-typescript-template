@@ -65,4 +65,14 @@ Ejemplo: `feat: add newsletter subscription component`
 - **Uso de objetos y typos globales** como `new Date` -> `new window.Date`, `NodeListOf` -> `globalThis.NodeListOf`, `NodeJS` -> `globalThis.NodeJS`. En caso de no saber que usar, referenciad en [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis) o en la documentación del framework [Astro](https://docs.astro.build/en/guides/typescript/#extending-window-and-globalthis)
 
 
-<p align="right"><a href="#">volver arriba ⬆️</a></p>
+<div align="right">
+  <a href="#" style="
+    display: inline-block;
+    padding: 5px 10px;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+  ">↑ Subir</a>
+</div>
