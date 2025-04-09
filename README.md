@@ -5,7 +5,7 @@
 ![Logo del proyecto](_e1981641-a5d1-4a05-93e8-10c7df839c82.png)
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
-[![Estado](https://img.shields.io/badge/estado-activo-brightgreen.svg)](https://github.com/tu-usuario/tu-repositorio/actions)
+[![Estado](https://img.shields.io/badge/estado-activo-brightgreen.svg)](https://github.com/Sapitorico/astro-typescript-template/actions)
 
 </div>
 
@@ -45,7 +45,7 @@ Describe aquí las principales características de tu proyecto. Por ejemplo:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/sapitorico/astro-typescript-template.git
+   git clone https://github.com/Sapitorico/astro-typescript-template.git
    ```
 
 2. Entre en el root del repo:
