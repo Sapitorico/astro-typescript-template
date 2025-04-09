@@ -1,12 +1,58 @@
 ## 🤝 Cómo Contribuir
 
-Aquí tienes una guía rápida:
+### 🌍 Para Miembros de la Comunidad
 
-1. Clona el repo (`git clone <URL>`)
-2. Crea tu Rama de Funcionalidad (`git switch -c feature/Caracteristica`)
-3. Realiza tus Cambios (`git commit -m 'Add: alguna Característica'`)
-4. Haz Push a la Rama (`git push origin feature/Caracteristica`)
-5. Abre una [_pull request_](https://github.com/<username>/<proyect_name>/pulls)
+Sigue estos pasos si eres un contribuidor externo:
+
+1. Haz un [_fork_](https://github.com/Sapitorico/astro-typescript-template/fork) del proyecto
+2. Clona tu fork localmente:
+    ```bash
+    git clone https://github.com/<TU_USUARIO>/astro-typescript-template.git
+    ```
+3. Configura el upstream:
+    ```bash
+    git remote add upstream https://github.com/Sapitorico/astro-typescript-template.git
+    ```
+4. Crea tu Rama de Funcionalidad:
+    ```bash
+    git switch -c feature/Caracteristica
+    ```
+5. Realiza y commit tus Cambios:
+    ```bash
+    git commit -m 'Add: alguna Característica'
+    ```
+6. Sincroniza con upstream:
+    ```bash
+    git fetch upstream
+    git rebase upstream/main
+    ```
+7. Haz Push a la Rama:
+    ```bash
+    git push origin feature/Caracteristica`
+    ```
+8. Abre una [_pull request_](https://github.com/Sapitorico/astro-typescript-template.git/pulls)
+
+### 👥 Para Colaboradores del Repositorio
+
+Si tienes acceso directo al repositorio:
+
+1. Clona directamente el repo:
+    ```bash
+    git clone https://github.com/Sapitorico/astro-typescript-template.git
+    ```
+2. Crea tu Rama de Funcionalidad:
+    ```bash
+    git switch -c feature/Caracteristica
+    ```
+5. Realiza y commit tus Cambios:
+    ```bash
+    git commit -m 'Add: alguna Característica'
+    ```
+6. Haz Push a la Rama:
+    ```bash
+    git push origin feature/Caracteristica`
+    ```
+5. Abre una [_pull request_](https://github.com/Sapitorico/astro-typescript-template.git/pulls)
 
 ### 📋 Estándares de Código
 

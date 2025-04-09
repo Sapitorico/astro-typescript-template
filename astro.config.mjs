@@ -10,8 +10,8 @@ export default defineConfig({
   experimental: {
     svg: true,
   },
-  adapter: vercel(),
   vite: {
     plugins: [tailwindcss()],
   },
+  adapter: vercel(),
 });
