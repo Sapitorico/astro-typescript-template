@@ -4,14 +4,14 @@
 
 Sigue estos pasos si eres un contribuidor externo:
 
-1. Haz un [_fork_](https://github.com/Sapitorico/astro-typescript-template/fork) del proyecto
-2. Clona tu fork localmente:
+1. Haz un [_fork_](https://github.com/sapitorico/astro-typescript-template/fork) del proyecto
+`2. Clona tu fork localmente:
     ```bash
     git clone https://github.com/<TU_USUARIO>/astro-typescript-template.git
     ```
 3. Configura el upstream:
     ```bash
-    git remote add upstream https://github.com/Sapitorico/astro-typescript-template.git
+    git remote add upstream https://github.com/sapitorico/astro-typescript-template.git
     ```
 4. Crea tu Rama de Funcionalidad:
     ```bash
@@ -30,7 +30,7 @@ Sigue estos pasos si eres un contribuidor externo:
     ```bash
     git push origin feature/Caracteristica`
     ```
-8. Abre una [_pull request_](https://github.com/Sapitorico/astro-typescript-template.git/pulls)
+8. Abre una [_pull request_](https://github.com/sapitorico/astro-typescript-template/pulls)
 
 ### 👥 Para Colaboradores del Repositorio
 
@@ -38,7 +38,7 @@ Si tienes acceso directo al repositorio:
 
 1. Clona directamente el repo:
     ```bash
-    git clone https://github.com/Sapitorico/astro-typescript-template.git
+    git clone https://github.com/sapitorico/astro-typescript-template.git
     ```
 2. Crea tu Rama de Funcionalidad:
     ```bash
@@ -52,7 +52,7 @@ Si tienes acceso directo al repositorio:
     ```bash
     git push origin feature/Caracteristica`
     ```
-5. Abre una [_pull request_](https://github.com/Sapitorico/astro-typescript-template.git/pulls)
+5. Abre una [_pull request_](https://github.com/sapitorico/astro-typescript-template/pulls)
 
 ### 📋 Estándares de Código
 

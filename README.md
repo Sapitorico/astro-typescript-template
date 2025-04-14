@@ -2,12 +2,14 @@
 
 # Nombre del Proyecto
 
-![Logo del proyecto](_e1981641-a5d1-4a05-93e8-10c7df839c82.png)
+![Logo del proyecto](/src/assets/images/Logo.png)
 
 [![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
-[![Estado](https://img.shields.io/badge/estado-activo-brightgreen.svg)](https://github.com/Sapitorico/astro-typescript-template/actions)
+[![Estado](https://img.shields.io/badge/estado-activo-brightgreen.svg)](https://github.com/sapitorico/astro-typescript-template/actions)
 
 </div>
+
+**Nimbre** descripcion breve del proyecto.
 
 ## 📖 Tabla de contenidos
 
@@ -45,7 +47,7 @@ Describe aquí las principales características de tu proyecto. Por ejemplo:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/Sapitorico/astro-typescript-template.git
+   git clone https://github.com/sapitorico/astro-typescript-template.git
    ```
 
 2. Entre en el root del repo:
@@ -54,7 +56,7 @@ Describe aquí las principales características de tu proyecto. Por ejemplo:
    cd astro-typescript-template
    ```
 
-2. Instala las dependencias:
+3. Instala las dependencias:
 
    ```bash
    pnpm install
@@ -125,11 +127,11 @@ Simplemente conecta tu repositorio y selecciona el framework Astro.
 
 ## 👨‍💻 Autor(es)
 
-- **Renzo Yaque** - [GitHub](https://github.com/Sapitorico)
+- **Renzo Yaque** - [GitHub](https://github.com/sapitorico)
 
 ## 🤝 Colaboradores
 
-[![Contribuidores](https://contrib.rocks/image?repo=sapitorico/astro-typescript-template)](https://github.com/sapitorico/astro-typescript-template/graphs/contributors)
+[![Contribuidores](https://contrib.rocks/image?repo=sapitorico/astro-typescript-template&max=500&columns=20)](https://github.com/sapitorico/astro-typescript-template/graphs/contributors)
 
 ## 📄 Licencia
 
